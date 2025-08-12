@@ -7,15 +7,16 @@ The goal is to track nutritional status, identify trends in BMI categories, and 
 This project covers the complete process — from raw data to a polished, interactive Excel dashboard.
 
 📂 File Contents
+
 The Excel file contains 7 sheets:
 
-Raw Data – Original dataset provided for analysis.
+<h3><b>Raw Data</b></h3> – <h3>Original dataset provided for analysis.</h3>
 
-Cleaned Data – Data after handling missing values, formatting, and standardizing categories.
+<h3><b>Cleaned Data</b></h3> – <h3>Data after handling missing values, formatting, and standardizing categories.</h3>
 
-Project Overview – Summary of objectives and scope.
+<h3><b>Project Overview</b></h3> – <h3>Summary of objectives and scope.</h3>
 
-Data Cleaning Summary – Detailed steps taken during data cleaning.
+<h3><b>Data Cleaning Summary</b></h3> – <h3>Detailed steps taken during data cleaning.</h3>
 
 Insights from Data – Key findings (counts, averages, BMI trends).
 
