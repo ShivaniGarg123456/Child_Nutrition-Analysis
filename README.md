@@ -1,4 +1,4 @@
-📊 Child Nutrition Analysis Dashboard
+<h1><b>📊 Child Nutrition Analysis Dashboard</b></h1>
 
 📌 Project Overview
 
