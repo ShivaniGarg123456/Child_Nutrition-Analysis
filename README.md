@@ -18,6 +18,10 @@ The Excel file contains 7 sheets:
 
 <h3><b>Data Cleaning Summary</b></h3> – Detailed steps taken during data cleaning.
 
+<h3><b>Pivot_Tables</b></h3> – Contains multiple pivot tables summarizing BMI categories, gender distribution, and age groups for quick health insights.
+
+<h3><b>Dashboard.xlsx</b></h3> – An interactive Excel dashboard visualizing BMI trends and distributions through charts, slicers, and KPIs for easy analysis.
+
 <h2><b>Insights from Data</b></h2> 
 
 Key findings (counts, averages, BMI trends).
@@ -39,18 +43,20 @@ Age Group Analysis – Nutritional trends vary significantly across age groups.
 Slicer Filters – Gender, BMI category, and other attributes for interactive filtering.
 
 <h2><b>🛠 Tools & Skills Used</b></h2>
+<ul>
 
-Microsoft Excel
+<li>Microsoft Excel</li>
 
-Data Cleaning
+<li>Data Cleaning</li>
 
-Pivot Tables
+<li>Pivot Tables</li>
 
-Slicers
+<li>Slicers</li>
 
-Chart Formatting
+<li>Chart Formatting</li>
 
-Dashboard Design
+<li>Dashboard Design</li>
+</ul>
 
 <h2><b>🚀 How to Use</b></h2>
 Download the .xlsx file from this repository.
@@ -62,8 +68,11 @@ Use slicers to filter data by gender, BMI category, and other attributes.
 <b>💡 Tip:</b> A preview screenshot of the dashboard is available in the repository.
 
 <b>📬 Contact</b>
+
 Author: Shivani Garg
+
 Email : sg2895653@gmail.com
+
 Linkedin: www.linkedin.com/in/
 shivani-garg-11b795325
 
