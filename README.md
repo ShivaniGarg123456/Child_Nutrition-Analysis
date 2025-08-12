@@ -1,6 +1,6 @@
 <h1><b>📊 Child Nutrition Analysis Dashboard</b></h1>
 
-📌 Project Overview
+<h2><b>📌 Project Overview</b></h2>
 
 An Excel-based interactive dashboard to analyze child nutrition data for children below 10 years of age.
 The goal is to track nutritional status, identify trends in BMI categories, and highlight gender-based patterns.
